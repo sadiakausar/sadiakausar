@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sadiakausar, a BCA student passionate about exploring the world of technology and coding.
-- 👀 I’m interested in web development, data science, and artificial intelligence.
-- 🌱 I’m currently learning Java, DSA, C and SQL to enhance my skills and knowledge.
+- 👀 I’m interested in web development and data analytics 
 - 💞️ I’m looking to collaborate on open-source projects related to educational technology or community-driven initiatives.
 - 📫 How to reach me: Feel free to connect with me via email at [sadiakausar08@gmail.com] or through LinkedIn [https://www.linkedin.com/in/sadia-kausar-a106b0201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ]
 - 😄 Pronouns: She/Her
